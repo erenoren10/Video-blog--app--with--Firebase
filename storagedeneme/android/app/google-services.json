@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090017644772",
+    "project_id": "resimliblog-c82a1",
+    "storage_bucket": "resimliblog-c82a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090017644772:android:522e180d0d3b074b6f9cf1",
+        "android_client_info": {
+          "package_name": "com.example.storagedeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090017644772-vo12an5qhsj5tmfm40kcv8j3bdi6kicc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkAxuNZ9pzJ2yEX9mUaDzi9rOmDgUOzpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090017644772-vo12an5qhsj5tmfm40kcv8j3bdi6kicc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
